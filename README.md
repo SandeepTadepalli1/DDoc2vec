@@ -26,6 +26,7 @@ download the  dataset [here](http://ai.stanford.edu/~amaas/data/sentiment/aclImd
 ```bash
 $ wget http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
 $ tar -xvf aclImdb_v1.tar.gz
+$ mv aclImdb_v1.tar.gz/ data/
 ```
 ## Preparing the dataset
 ```
